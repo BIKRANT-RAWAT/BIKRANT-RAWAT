@@ -80,3 +80,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right:10px;"/> 
   </a>
 </p>
+
+<div align="center">
+  <img src="" alt="Gradient Image"/>
+</div>
