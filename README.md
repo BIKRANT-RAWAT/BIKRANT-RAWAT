@@ -82,5 +82,5 @@
 </p>
 
 <div align="center">
-  <img src="" alt="Gradient Image"/>
+  <img src="https://github.com/BIKRANT-RAWAT/BIKRANT-RAWAT/blob/main/endpg.png" alt="Gradient Image"/>
 </div>
