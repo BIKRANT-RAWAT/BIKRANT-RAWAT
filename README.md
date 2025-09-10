@@ -1,3 +1,4 @@
+![logo](https://github.com/BIKRANT-RAWAT/BIKRANT-RAWAT/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm BIKRANT RAWAT</h1>
 <h3 align="center">I am an AI & ML enthusiast, exploring data-driven innovations and shaping the future with cutting-edge technology.</h3>
 
